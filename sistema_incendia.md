@@ -202,3 +202,7 @@ void Leds(int temperatura){
   }
 }
 ~~~
+
+**Link del Tinkercad:**
+
+    https://www.tinkercad.com/things/jFMVGw2VWLD-bodacious-tumelo/editel?sharecode=UDx3bPvRSW-xAFvTk9sDMK23sB85_GlvGDBq8lqz0kE
