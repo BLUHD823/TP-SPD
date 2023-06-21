@@ -63,6 +63,16 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
     • Debe haber buen uso de las funciones.
     • El código debe ser prolijo y legible.
 
+    1- debe poder explicar cada punto
+    2- debe poder modificar la funcionalidad agregando lo que sea necesario
+    3- Documentación:
+    • Deberán presentar un diagrama esquemático del circuito y explicar el
+    funcionamiento aplicado de cada componente.
+    • Presentar el código fuente del proyecto de Arduino listo para ser 
+    implementado.
+    • Deberán explicar el funcionamiento integral utilizando documentación
+    MarkDown.
+
 ## Arduino:
 
 ![Tinkercad](imagen_tinkercad.png)
