@@ -1,0 +1,13 @@
+CONTROL IR = Se usa para cuando apretamos el botón de encendido se active todo el circuito.
+SENSOR IR IR = Recibe la señal infrarroja proveniente del control.
+
+LCD 16X2 = Pantalla de LCD que muestra la temperatura y la estación del año. Además en caso de incendio, printea un mensaje de alerta.
+Potenciometro = Usado para darle voltaje suficiente para que el LCD pueda mostrar sus mensajes de manera nítida.
+Resistencia 1kΩ = Resistencia conectada al pin LED de la  pantalla LCD.
+
+Sensor de temperatura = Utilizado para recibir los datos de la temperatura ambiente que serán enviados a la pantalla para la vista del usuario.
+Servomotor = Se activa en el momento que la temperatura está en rango de incendio.
+LEDs Rojos = LEDs que se apagaran y se encenderan, en el momento que haya temperatura de incendio, a modo de alerta.
+Resistencias de 220Ω = Resistencias unidas al cátado de los LEDs Rojos de alerta.
+
+Placa_Arduino = Se encarga de todas las conexiones del circuito, como tambien de alimentar los componentes
